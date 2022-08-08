@@ -23,10 +23,10 @@ const data = [{
     "email": "imtiazahmed026@gmail.com"
 },
 {
-    "name": "ishrat",
-    "female": true,
-    "fee": 220,
-    "email": "ishratriya18@gmail.com"
+    "name": "sadek vai",
+    "male": true,
+    "fee": 120,
+    "email": "sadek.hkm@gmail.com"
 }
 
 ]
